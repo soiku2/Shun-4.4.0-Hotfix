@@ -6,7 +6,7 @@ onnx==1.16.1
 insightface==0.7.3
 albucore==0.0.16
 psutil==5.9.6
-torch==2.5.1+cu124; sys_platform != 'darwin'
+torch==2.5.1+cu118; sys_platform != 'darwin'
 torch==2.5.1; sys_platform == 'darwin'
 torchvision==0.20.1+cu124; sys_platform != 'darwin'
 torchvision==0.20.1; sys_platform == 'darwin'
