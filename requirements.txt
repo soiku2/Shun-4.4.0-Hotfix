@@ -1,5 +1,4 @@
-!pip install --upgrade pip
-!pip install --extra-index-url https://download.pytorch.org/whl/cu122 
+ --extra-index-url https://download.pytorch.org/whl/cu122 
     numpy==1.26.4 
     gradio==5.9.1 
     opencv-python-headless==4.10.0.84 
